@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=GNOME Logo
+Description=The official theme for ESI Linux
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/esi-linux
+ScriptFile=/usr/share/plymouth/themes/esi-linux/esi-linux.script
